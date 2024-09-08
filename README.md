@@ -1,4 +1,4 @@
-# MoviesLab
+# MoviesLib
 
 ## ✅ Sobre o projeto
 [movieslib.com](https://movies-lib-rho.vercel.app/)
