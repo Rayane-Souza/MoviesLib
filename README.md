@@ -47,10 +47,3 @@ git clone https://github.com/Rayane-Souza/MoviesLib.git
     </td>
     
 </table>
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/9f844482-bd85-4634-87ee-dbe6822da239)
